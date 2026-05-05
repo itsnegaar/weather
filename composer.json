@@ -1,0 +1,17 @@
+{
+    "name": "negar/weather_app",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Negar\\WeatherApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "negar.a",
+            "email": "negaarabolhasani@gmail.com"
+        }
+    ]
+}
